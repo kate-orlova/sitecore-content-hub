@@ -25,3 +25,6 @@ Here are simple steps to create a Trigger:
 1.	Then proceed to the _Actions_ tab and add an action selecting the appropriate action that you created earlier from the dropdown list.
 1.	When finished, click _Save and close_ and enable your newly created trigger.
 
+### user-group-mapping
+`DAM/Scripts/user-group-mapping.csx` is an example script to map SSO roles to user groups within the Content Hub DAM.
+
